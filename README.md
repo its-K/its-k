@@ -19,10 +19,10 @@ const kishore = {
                      "3D Printing",
                      "Stock Research"
              ],
- strength: "Picking up a new technology or tool isn't a problem"
+  strength: "Picking up a new technology or tool isn't a problem"
 }
 ```
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people across the globe</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
 ---
