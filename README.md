@@ -11,8 +11,8 @@
 ```javascript
 const kishore = {
   pronouns: "he" | "him",
-  code: [Python, Javascript, Golang, SQL, CSS, HTML, PHP, CoreJava],
-  tools: [Flask, Node, Express, Laravel, Postman, Docker, AWS EC2, Heroku],
+  code: [Python, Javascript, Java, SQL],
+  tools: [Flask, NodeJS, Express, Postman, Docker, AWS EC2, Heroku],
   architecture: ["microservices", "event-driven", "distributed systems"],
   interests: [
                      "Model Rocketing",
